@@ -34,9 +34,9 @@
 # Circuit Diagrams
 
 **Schematic**
-![](/media/##.PNG)
+![](/media/room_monioring_sys_schematic.PNG)
 
 **Breadboard**
-![](/media/##.PNG)
+![](/media/room_monioring_sys_breadboard.PNG)
 
 
