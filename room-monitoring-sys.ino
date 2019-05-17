@@ -50,7 +50,6 @@ int afterEvent = doorTimer.after(300000, doorAlert, 0);
 
 // 1 hr interval for turning on/off lightbulb
 int afterLight = lightTime.after(3600000, turnOffLight, 0);
-//int afterLight = lightTime.after(180000, turnOffLight, 0);
 
 void setup() {
   Serial.begin(9600);
