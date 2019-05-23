@@ -48,7 +48,7 @@ The code ouputs a serie of strings that represent the data gathered from the sen
 
 
 # Code Description
-Because the data gathered by the sensors is so useful, most of it gets printed into a serial port where it can be collected by other projects using a similar type of communication. For every loop, the code outputs the data in the following format:
+Because the data gathered by the sensors is so useful, most of it gets printed into a serial port where it can be collected by [room-monitoring-serial-communicator](https://github.com/heidinv12/room-monitoring-serial-comm) using a similar type of communication. For every loop, the code outputs the data in the following format:
 
 ```motionSensor-gasSensor-doorMagnet-temperature-humidity```
  
